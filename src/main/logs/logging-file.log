@@ -1,0 +1,9 @@
+2020-02-25 18:27:11 INFO  Main:16 - INTEREST CALCULATION:
+2020-02-25 18:27:11 INFO  Main:17 - Select an option 
+1.Simple Interest 2.Compound Interest
+2020-02-25 18:27:12 INFO  Main:19 - Enter principal, rate of interest and time in years
+2020-02-25 18:27:15 INFO  Main:23 - Simple Interest is: 20.0
+
+2020-02-25 18:27:15 INFO  Main:33 - HOUSE CONSTRUCTION
+Enter material standard(1.standard 2.above standard 3.high standard) and total area of house
+2020-02-25 18:27:17 INFO  Main:44 - Total cost required: 48000.0
